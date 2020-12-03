@@ -12,7 +12,7 @@ button.addEventListener('click', function() {
       } else {
         add(`can't join |❎| ${tokens[i]}`);
       }
-      await sleep(300);
+      await sleep(1000);
     }
   }
 
