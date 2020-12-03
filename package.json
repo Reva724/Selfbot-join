@@ -1,0 +1,15 @@
+{
+  "name": "REVA",
+  "version": "1.0.0",
+  "description": "welcome bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Alex.js"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+    },
+  "engines": {
+    "node": "11.x"
+  }
+}
